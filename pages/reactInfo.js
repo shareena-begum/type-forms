@@ -1,6 +1,6 @@
 import React from "react"
-import Navbar from "../public/src/ReactInfo/Navbar"
-import Main from "../public/src/ReactInfo/Main"
+import Navbar from "../public/src/Components/ReactInfo/Navbar"
+import Main from "../public/src/Components/ReactInfo/Main"
 
 function reactInfo(){
     return (
