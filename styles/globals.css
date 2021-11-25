@@ -1,6 +1,4 @@
-* {
-  box-sizing: border-box;
-}
+/* 
 
 body {
   margin: 0;
@@ -41,6 +39,9 @@ nav {
 main {
   padding: 57px 27px;
   color: white;
+  background-image: url(../public/src/Components/ReactInfo/images/react-bg.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
 }
 
 .main--title {
@@ -58,3 +59,13 @@ main {
   line-height: 19px;
   padding-block: 10px;
 }
+
+.main--facts > li::marker {
+  font-size: 1.4rem;
+  color: #61DAFB;
+} */
+
+/* END OF REACT-INFO */
+
+
+/* AIR BNB APPLICATION */
